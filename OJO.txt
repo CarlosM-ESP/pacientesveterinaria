@@ -1,0 +1,2 @@
+no copiada carpeta de módulos de node.js
+se pueden rescatar con el package.json
